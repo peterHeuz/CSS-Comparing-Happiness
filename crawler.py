@@ -5,10 +5,10 @@ from tweepy import OAuthHandler
  
 
 #please keep these private, as they belong to  my personal twitter account
-consumer_key = 'tCoHhTkxpOKi5zQqNTv9t5eu7'
-consumer_secret = 'O7wzdFZxWAnWEBScv1rHZh73sysMWFb2DeJFPxRhdAoFvUQSbS'
-access_token = '308424160-629KeKYT1EMooDZpHuNGJHxlrltqYYzFqPkpTTeD'
-access_secret = 'A4EkmsxJMgxKh3Wf2xcQfyVxBga22AMYhJDfiWscUur0X'
+consumer_key = ''
+consumer_secret = ''
+access_token = ''
+access_secret = ''
  
 auth = OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_secret)
